@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Tests.TestGroup_second" tests="3" skipped="0" failures="0" errors="0" timestamp="2017-09-22T15:22:41" hostname="zhukov" time="9.52">
+<testsuite name="Tests.TestGroup_second" tests="3" skipped="0" failures="0" errors="0" timestamp="2017-10-03T14:39:50" hostname="zhukov" time="10.027">
   <properties/>
-  <testcase name="validUserIsAbleToLogin" classname="Tests.TestGroup_second" time="3.606"/>
-  <testcase name="userIsAbleToCreateNewArticle" classname="Tests.TestGroup_second" time="3.93"/>
-  <testcase name="userIsAbleToDeleteCreatedArticle" classname="Tests.TestGroup_second" time="1.98"/>
+  <testcase name="validUserIsAbleToLogin" classname="Tests.TestGroup_second" time="3.615"/>
+  <testcase name="userIsAbleToCreateNewArticle" classname="Tests.TestGroup_second" time="3.909"/>
+  <testcase name="userIsAbleToDeleteCreatedArticle" classname="Tests.TestGroup_second" time="2.499"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

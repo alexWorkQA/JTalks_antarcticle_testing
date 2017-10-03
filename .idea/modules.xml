@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JTalks.test.iml" filepath="$PROJECT_DIR$/.idea/modules/JTalks.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/QAAutomation.iml" filepath="$PROJECT_DIR$/.idea/modules/QAAutomation.iml" />
     </modules>
   </component>
 </project>
