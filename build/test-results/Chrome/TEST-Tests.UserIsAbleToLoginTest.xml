@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Tests.UserIsAbleToLoginTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-04-27T12:37:11" hostname="zhukov" time="3.438">
+  <properties/>
+  <testcase name="testLogin" classname="Tests.UserIsAbleToLoginTest" time="3.438"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
