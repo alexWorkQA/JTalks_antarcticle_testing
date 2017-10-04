@@ -39,6 +39,5 @@ public class TestGroup_second extends BaseTest {
     @AfterClass
     public void closeWebBrowser() throws Exception {
         app.mainHelper.logOut_FromSite();
-        app.common.closeWebBrowser();
     }
 }

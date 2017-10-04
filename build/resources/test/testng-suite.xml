@@ -5,8 +5,8 @@
 
     <test name="Webdriver">
         <classes>
+            <class name = "Tests.TestGroup_second"/>
             <class name="Tests.Test_add_new_Comment" />
-            <!--class name = "Tests.TestGroup_second"/-->
         </classes>
     </test>
 

@@ -11,7 +11,7 @@ import org.testng.annotations.BeforeSuite;
  */
 public class BaseTest {
 
-    App app;
+    static App app;
 
     @BeforeSuite
     public void webDriverInitialization() throws Exception {
