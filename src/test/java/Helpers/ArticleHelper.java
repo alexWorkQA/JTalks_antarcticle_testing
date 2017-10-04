@@ -1,5 +1,6 @@
 package Helpers;
 
+import Factories.CommentFactory;
 import Pages.ArticlePage;
 
 import java.util.HashMap;
@@ -30,4 +31,15 @@ public class ArticleHelper extends ArticlePage {
     public String getUrlOfArticle() {
         return webDriver.getCurrentUrl();
     }
+
+    public void addNewValidComment() {
+        enterCommentText(CommentFactory.getValidComment().getCommentText());
+        clickPostButton();
+    }
+
+    public String getCommentTextForAssert() {
+        String text = getCommentText();
+        return text;
+    }
+
 }

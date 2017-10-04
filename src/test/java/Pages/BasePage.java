@@ -16,6 +16,7 @@ public abstract class BasePage {
     static {
         webDriver = DriverFactory.getDriver();
         webDriver.manage().timeouts().implicitlyWait(40, TimeUnit.SECONDS);
+
     }
 
     public BasePage() {

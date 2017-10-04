@@ -47,6 +47,16 @@ public class ArticlePage extends BasePage {
     @FindBy(xpath = ".//*[@class='btn btn-primary']")
     private WebElement ok_button;
 
+	@FindBy(xpath = "//textarea[@class='form-control']")
+	private WebElement text_comment_field;
+
+	@FindBy(xpath = "//input[@type='submit']")
+	private WebElement post_button;
+
+	@FindBy(xpath = "//*[@class='comment-bubble comment-bubble-other']/div/p")
+	private WebElement comment_text;
+
+
 
     //Page Methods
     public String get_ArticleTitle() {
@@ -71,6 +81,18 @@ public class ArticlePage extends BasePage {
 
     public void clickOkButton() {
         ok_button.sendKeys(Keys.ENTER);
+    }
+
+    public void enterCommentText(String string){
+        text_comment_field.sendKeys(string);
+    }
+
+    public void clickPostButton(){
+        post_button.click();
+    }
+
+    public String getCommentText(){
+        return comment_text.getText();
     }
 
 }

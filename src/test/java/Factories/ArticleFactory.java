@@ -1,7 +1,6 @@
 package Factories;
 
 import Models.Article;
-import Pages.ArticlePage;
 
 import java.util.HashMap;
 import java.util.ResourceBundle;

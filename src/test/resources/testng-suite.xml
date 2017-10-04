@@ -5,10 +5,8 @@
 
     <test name="Webdriver">
         <classes>
-            <!--class name="Test.IUaTest" /-->
-            <!--class name="Test.LogoutTest"/-->
-             <!--class name="Tests.TestsGroup"/-->
-            <class name = "Tests.TestGroup_second"/>
+            <class name="Tests.Test_add_new_Comment" />
+            <!--class name = "Tests.TestGroup_second"/-->
         </classes>
     </test>
 

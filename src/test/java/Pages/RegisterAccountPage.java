@@ -8,9 +8,6 @@ import org.openqa.selenium.support.FindBy;
  */
 public class RegisterAccountPage extends BasePage {
 
-/*	public RegisterAccountPage(WebDriver webDriver) {
-		super(webDriver);
-	}*/
 
 	public RegisterAccountPage() {
 	}
