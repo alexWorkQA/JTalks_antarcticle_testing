@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Tests.Test_add_new_Comment" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-10-04T08:31:13" hostname="zhukov" time="9.876">
+  <properties/>
+  <testcase name="testAddNewComment" classname="Tests.Test_add_new_Comment" time="9.876"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

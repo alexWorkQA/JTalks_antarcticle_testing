@@ -10,7 +10,7 @@ import org.testng.annotations.BeforeSuite;
  * Created by Administrator on 4/18/2017.
  */
 public class BaseTest {
-    public WebDriver webDriver;
+
     App app;
 
     @BeforeSuite
