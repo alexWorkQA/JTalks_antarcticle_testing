@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Tests.Test_add_new_Comment" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-10-04T09:09:03" hostname="zhukov" time="6.335">
+<testsuite name="Tests.Test_add_new_Comment" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-07-07T14:29:46" hostname="azhworking" time="9.165">
   <properties/>
-  <testcase name="testAddNewComment" classname="Tests.Test_add_new_Comment" time="6.335"/>
+  <testcase name="testAddNewComment" classname="Tests.Test_add_new_Comment" time="9.165"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

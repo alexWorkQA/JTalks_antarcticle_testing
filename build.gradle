@@ -18,13 +18,13 @@ dependencies {
 
 }
 
-task FireFoxTest(type: Test) {
-    systemProperty "driver", "FireFox"
+task FirefoxTest(type: Test) {
+    systemProperty "driver", "Firefox"
     useTestNG() {
         suites "src\\test\\resources\\testng-suite.xml"
     }
 }
-task Chrome(type: Test) {
+task ChromeTest(type: Test) {
     systemProperty "driver", "Chrome"
     useTestNG() {
         suites "src\\test\\resources\\testng-suite.xml"

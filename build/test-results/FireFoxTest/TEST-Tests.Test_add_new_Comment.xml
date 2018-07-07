@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Tests.Test_add_new_Comment" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-07-07T14:35:09" hostname="azhworking" time="6.656">
+  <properties/>
+  <testcase name="testAddNewComment" classname="Tests.Test_add_new_Comment" time="6.656"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[JavaScript error: http://qa.jtalks.org/antarcticle/javascripts/Global.js, line 35: ReferenceError: Cannot is not defined
+JavaScript error: http://qa.jtalks.org/antarcticle/javascripts/Global.js, line 35: ReferenceError: Cannot is not defined
+JavaScript warning: http://qa.jtalks.org/antarcticle/webjars/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://codepen.io/dark_mefody/pen/pKjqpz.js, line 4: TypeError: canvas is null
+JavaScript error: http://qa.jtalks.org/antarcticle/javascripts/Global.js, line 35: ReferenceError: Cannot is not defined
+JavaScript error: http://qa.jtalks.org/antarcticle/javascripts/Global.js, line 35: ReferenceError: Cannot is not defined
+JavaScript warning: http://qa.jtalks.org/antarcticle/webjars/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://codepen.io/dark_mefody/pen/pKjqpz.js, line 4: TypeError: canvas is null
+JavaScript error: http://qa.jtalks.org/antarcticle/javascripts/Global.js, line 35: ReferenceError: Cannot is not defined
+JavaScript error: http://qa.jtalks.org/antarcticle/javascripts/Global.js, line 35: ReferenceError: Cannot is not defined
+JavaScript warning: http://qa.jtalks.org/antarcticle/webjars/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://codepen.io/dark_mefody/pen/pKjqpz.js, line 4: TypeError: canvas is null
+JavaScript error: http://qa.jtalks.org/antarcticle/javascripts/Global.js, line 35: ReferenceError: Cannot is not defined
+JavaScript error: http://qa.jtalks.org/antarcticle/javascripts/Global.js, line 35: ReferenceError: Cannot is not defined
+JavaScript warning: http://qa.jtalks.org/antarcticle/webjars/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://codepen.io/dark_mefody/pen/pKjqpz.js, line 4: TypeError: canvas is null
+JavaScript error: http://qa.jtalks.org/antarcticle/javascripts/Global.js, line 35: ReferenceError: Cannot is not defined
+JavaScript error: http://qa.jtalks.org/antarcticle/javascripts/Global.js, line 35: ReferenceError: Cannot is not defined
+]]></system-err>
+</testsuite>
